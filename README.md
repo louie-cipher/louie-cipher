@@ -25,19 +25,17 @@ Oie stalker, bem vinde ao meu README.md
  - 🌎 Idiomas: Português (nativo) / Inglês (básico)
 
 ---
-![Readme Card](https://github-readme-stats.vercel.app/api?username=louie-cipher&show_icons=true&theme=dracula&locale=&title_color=#F5A9B8s)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=louie-cipher&show_icons=true&theme=dracula&locale=&title_color=#F5A9B8s)](https://github.com/Louie-Cipher)
 
 ---
 
 ### Meus projetos:
-![Luna Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=LunaBot)
-<!--
-![Azarath Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=azarath)
--->
+[![Luna Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=LunaBot)](https://github.com/Louie-Cipher/LunaBot)
+[![Luna Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=Lyra)](https://github.com/Louie-Cipher/Lyra)
 
 ---
 
-	const Louie = {
+	var Louie = {
 
 		age:  21,
 
