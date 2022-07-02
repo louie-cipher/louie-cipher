@@ -30,9 +30,9 @@ Oie stalker, bem vinde ao meu README.md
 ---
 
 ### Meus projetos:
-[![Luna Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=LunaBot)](https://github.com/Louie-Cipher/LunaBot)
+[![Rosebot Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=rosebot)](https://github.com/Louie-Cipher/rosebot)
 
-[![Luna Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=Lyra)](https://github.com/Louie-Cipher/Lyra)
+[![Lyra Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=Lyra)](https://github.com/Louie-Cipher/Lyra)
 
 ---
 
