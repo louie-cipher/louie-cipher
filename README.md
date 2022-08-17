@@ -21,7 +21,7 @@ Oie stalker, bem vinde ao meu README.md
   [](https://github.com/louie-cipher)
 
  - 🏳‍🌈 pronomes: ela - dela
- - 👩‍💻 Linguagens: Javascript / Node.js (estudando)
+ - 👩‍💻 Linguagens: JavaScript/TypeScript / C#
  - 🌎 Idiomas: Português (nativo) / Inglês (básico)
 
 ---
