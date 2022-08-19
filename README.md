@@ -4,14 +4,10 @@
 Oie stalker, bem vinde ao meu README.md
 -->
 
-<h3 align="center"> Apenas uma pessoa aprendendo programação, <br> e se divertindo criando chatbots em um monte de plataformas e redes sociais </h3>
-
-<p align="center">
-	<a href="https://discord.gg/VFJAqE7Uz6">
-	<img src="https://img.shields.io/badge/Discord-7289DA?flat-square&logo=discord&logoColor=white"/>
-	<img src="https://img.shields.io/discord/868989595440783362"/>
-	</a>
-</p>
+<h3 align="center"> Apenas uma pessoa programando aleatóriamente, <br/>
+se divertindo criando chatbots, <br/>
+e atualmente aprendendo react / react native
+</h3>
 
 <p align="center">
 	<a  href="https://twitter.com/louie_cipher">
