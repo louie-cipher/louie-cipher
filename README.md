@@ -22,7 +22,7 @@ Oie stalker, bem vinde ao meu README.md
 
  - 🏳‍🌈 pronomes: ela - dela
  - 👩‍💻 Linguagens: JavaScript/TypeScript / C#
- - 🌎 Idiomas: Português (nativo) / Inglês (básico)
+ - 🌎 Idiomas: Português (nativo) / Inglês (intermediário)
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=louie-cipher&show_icons=true&theme=dracula&locale=&title_color=#F5A9B8s)](https://github.com/Louie-Cipher)
@@ -35,40 +35,17 @@ Oie stalker, bem vinde ao meu README.md
 [![Lyra Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=Lyra)](https://github.com/Louie-Cipher/Lyra)
 
 ---
-
-	var Louie = {
-
-		age:  21,
-
-		pronouns:  "ela - dela",
-
-		languages: {
-
-			NodeJs:  "learning"
-
-		},
-
+	let Louie = {
+		birth: 952221600,
+		pronouns: 'she - her',
+		languages: ['javaScript_typeScript', 'csharp'],
 		idiom: {
-
-			portuguese:  "native",
-
-			english:  "basic"
-
+			pt_br: 'native',
+			eng: {
+				reading: 'advanced',
+				listening: 'advanced',
+				writing: 'basic',
+				talking: 'basic',
+			}
 		}
-
 	};
-
-<!--
-**Louie-Cipher/louie-cipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
