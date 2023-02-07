@@ -5,8 +5,9 @@ Oie stalker, bem vinde ao meu README.md
 -->
 
 <h3 align="center"> Apenas uma pessoa programando aleatóriamente, <br/>
-se divertindo criando chatbots, <br/>
-e atualmente aprendendo react / react native
+se divertindo criando chatbots, as vezes aplicações web,<br/>
+e atualmente aprendendo desenvolvimento de games <br/>
+Cursando técnico em Informática
 </h3>
 
 <p align="center">
