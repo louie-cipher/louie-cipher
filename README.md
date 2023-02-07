@@ -32,7 +32,7 @@ Cursando técnico em Informática
 [![Lyra Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=Lyra)](https://github.com/Louie-Cipher/Lyra)
 
 ---
-	let Louie = {
+	const Louie = {
 		birth: 952221600,
 		pronouns: 'she - her',
 		languages: ['javaScript_typeScript', 'csharp'],
