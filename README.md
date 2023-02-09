@@ -12,12 +12,17 @@ Cursando técnico em Informática
 
 <p align="center">
 	<a  href="https://twitter.com/louie_cipher">
-	<img src="https://img.shields.io/twitter/follow/Louie_Cipher?label=%40louie_cipher&style=social"/>
+		<img src="https://img.shields.io/twitter/follow/Louie_Cipher?label=%40louie_cipher&style=social"/>
+	</a>
+</p>
+<p align="center">
+	<a  href="https://louie-cipher.itch.io/">
+		<img src="https://img.shields.io/badge/itch.io-louie--cipher-%23f74c6b"/>
+	</a>
 </p>
 
-  [](https://github.com/louie-cipher)
 
- - 🏳‍🌈 pronomes: ela - dela
+ - 🏳️‍⚧️ pronomes: ela - dela
  - 👩‍💻 Linguagens: JavaScript/TypeScript / C#
  - 🌎 Idiomas: Português (nativo) / Inglês (intermediário)
 
