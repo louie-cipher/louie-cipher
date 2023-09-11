@@ -7,7 +7,7 @@ Oie stalker, bem vinde ao meu README.md
 <h3 align="center"> Apenas uma pessoa programando aleatóriamente, <br/>
 se divertindo criando chatbots, as vezes aplicações web,<br/>
 e atualmente aprendendo desenvolvimento de games <br/>
-Cursando técnico em Informática
+Cursando bacharel em Tecnologia da Informação
 </h3>
 
 <p align="center">
@@ -36,18 +36,4 @@ Cursando técnico em Informática
 
 [![Lyra Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=Lyra)](https://github.com/Louie-Cipher/Lyra)
 
----
-	const Louie = {
-		birth: 952221600,
-		pronouns: 'she - her',
-		languages: ['javaScript_typeScript', 'csharp'],
-		idiom: {
-			pt_br: 'native',
-			eng: {
-				reading: 'advanced',
-				listening: 'advanced',
-				writing: 'basic',
-				talking: 'basic',
-			}
-		}
-	};
+[![LembreiPaguei Card](https://github-readme-stats.vercel.app/api/pin/?username=louie-cipher&theme=dracula&repo=lembrei-paguei)](https://github.com/Louie-Cipher/lembrei-paguei)
