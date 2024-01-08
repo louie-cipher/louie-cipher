@@ -10,11 +10,9 @@ Me aventurando no mundo gamedev, atualmente explorando Godot.<br>
 Entusiasta de cybersegurança e Linux nas horas vagas.<br>
 </h3>
 
-<p align="right">
-	<a  href="https://twitter.com/louie_cipher" target='_blank'>
-		<img src="https://img.shields.io/twitter/follow/Louie_Cipher?label=%40louie_cipher&style=social"/>
-	</a>
-	<a  href="https://louie-cipher.itch.io/" target='_blank'>
+<p>
+	<a href="https://twitter.com/louie_cipher" target='_blank'><img src="https://img.shields.io/twitter/follow/Louie_Cipher?label=%40louie_cipher&style=social"/></a>
+	<a href="https://louie-cipher.itch.io/" target='_blank'>
 		<img src="https://img.shields.io/badge/itch.io-louie--cipher-%23f74c6b"/>
 	</a>
 </p>
